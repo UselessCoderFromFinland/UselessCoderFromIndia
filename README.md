@@ -1,16 +1,20 @@
-### Hi there 👋
+<p align="center">
+    Bayonet#7318
+</p>
 
-<!--
-**UselessCoderFromIndia/UselessCoderFromIndia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UselesscCoderFromIndia&layout=compact&theme=midnight-purple" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UselesscCoderFromIndia&show_icons=true&theme=midnight-purple" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> 
+  <h1 align="center">Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/UselessCoderFromIndia/count.svg" />
+    </h1>
+</p>
+
+<p align="center">
+    Monkey sex
