@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCMKF_R1JKxMbXCe5k7ZcZkA?style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UselessCoderFromIndia&show_icons=true&theme=midnight-purple" />
 </p>
 
@@ -18,6 +22,3 @@
 
 <p align="center">
     Coding oblivion.pink
-
-https://img.shields.io/youtube/channel/subscribers/UCMKF_R1JKxMbXCe5k7ZcZkA?style=for-the-badge
-
