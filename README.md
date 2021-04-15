@@ -18,4 +18,6 @@
 
 <p align="center">
     Coding oblivion.pink
-Color=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMKF_R1JKxMbXCe5k7ZcZkA)
+
+https://img.shields.io/youtube/channel/subscribers/UCMKF_R1JKxMbXCe5k7ZcZkA?style=for-the-badge
+
